@@ -1,0 +1,17 @@
+
+
+.panel-default {
+    opacity: .9;
+    -webkit-box-shadow: 0px 7px 24px 1px rgba(0,0,0,0.45);
+    -moz-box-shadow: 0px 7px 24px 1px rgba(0,0,0,0.45);
+    box-shadow: 0px 7px 24px 1px rgba(0,0,0,0.45);
+    background: transparent url('http://3rwebtech.com/bg-white.png') repeat scroll 0% 0%;
+}
+
+hr {
+	border: 0;
+	height: 1px;
+	background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #FFF, rgba(0, 0, 0, 0));
+	margin: 15px
+}
+

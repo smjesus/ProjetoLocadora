@@ -1,0 +1,8 @@
+<!-- Projeto:  CatalogoDigital - Sistema de Gerencia de Filmes e Revistas.
+ *   Gerente:  Sergio Murilo   -  smurilo at GMail
+ *   Equipe:   Sergio Murilo
+ *   Data:     Manaus/AM       -  1o.Semestre/2009
+-->
+<vraptor>
+   <plugin>org.vraptor.plugin.spring.SpringPlugin</plugin>
+</vraptor>
